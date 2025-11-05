@@ -1,0 +1,16 @@
+{
+  "apiID": "package_38b871__c__function_aadjbnbd5nyqw",
+  "apiName": "autoTestGoLongTaskFunc1762350289783",
+  "label": {
+    "zh_CN": "auto Test Go Long Task Func 1762350289783",
+    "en_US": "auto Test Go Long Task Func 1762350289783"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
